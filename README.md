@@ -80,4 +80,4 @@ A premium, full-stack e-commerce experience for book lovers. Built with the MERN
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-Built with ❤️ by [Your Name]
+Built with ❤️ by Ramya
